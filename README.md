@@ -6,6 +6,8 @@ Named and default exports/imports: I learned the difference between named export
 Code organization: I learned why minimizing unnecessary duplication is important for maintaining and operating code properly.
 Connecting files: I learned how different JavaScript files can work together as one application.
 DOM manipulation: I became more familiar with creating elements, changing their content, adding them to the page, and responding to button clicks.
+and how i learn is actually through pseudo-code.
+I didn't expect pseudo-code is useful for learning.
 
 My Learning Opinion
 
